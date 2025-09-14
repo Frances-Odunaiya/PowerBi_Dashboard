@@ -15,7 +15,7 @@ By providing instant access to vital data, this dashboard enables managers to re
    
 4. **Executive Summary on Financials Report Dashboard**:This project provides an executive-level overview of financial performance and key metrics for strategic decision-making and planning.
 By distilling intricate financial data into concise and actionable summaries, this dashboard enables executives to make informed decisions, conduct financial analysis, and strategize effectively.
---> [go to Project..](https://github.com/Frances-Odunaiya/Data-Visualizations-using-POWER-BI/blob/main/Data%20Visualizations%20using%20POWER%20BI/Executive%20Summary%20on%20Financial%20Report%20Dashboard/README.md)
+--> [go to Project..](https://github.com/Frances-Odunaiya/PowerBi_Dashboard/blob/main/Executive%20Financial%20Summary%20Dashboard/README.md)
   
 5. **Board of Directors Report Dashboard**:This project provides a comprehensive dashboard tailored for board members to access and review key information and insights relevant to their oversight role. By providing a unified overview of organizational performance and critical initiatives, this dashboard empowers board members to make well-informed decisions, offer strategic guidance, and fulfill their governance obligations proficiently.--> [go to Project..](https://github.com/Frances-Odunaiya/PowerBi_Dashboard/blob/main/Board%20of%20Directors%20Dashboard/README.md)
    
