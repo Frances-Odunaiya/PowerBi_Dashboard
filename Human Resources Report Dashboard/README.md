@@ -19,7 +19,7 @@ Customizable Reports: Customize dashboards and reports to align with organizatio
 - **Data Visualization**: Utilization of Power BI's visualization capabilities to create dynamic and interactive reports and dashboards.
   
 
-  <img src = "https://github.com/Frances-Odunaiya/PowerBi_Dashboard/blob/main/Human%20Resources%20Report%20Dashboard/HR_Dashboard.png">
+  <img src = "https://github.com/Frances-Odunaiya/PowerBi_Dashboard/blob/main/Human%20Resources%20Report%20Dashboard/HR_Dashboard.png" alt = "Human Resources Dashboard">
 
 
 # Contributing
