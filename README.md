@@ -4,7 +4,7 @@
 **Repository**: This is the repository that contains all the Data, Problems which can be seen in the PDF/Doc.x files and PowerBi reporting Dashboards containing all visuals gotten from insights.
 
 ## PROJECTS
-1. **Premier League Live Dashboard**: This project provides a real-time dashboard for tracking live football (soccer) matches, focusing on the English Premier League. The Premier League Live Dashboard provides an engaging and interactive platform tailored for avid football fans.--> [go to Project..](https://github.com/Frances-Odunaiya/Data-Visualizations-using-POWER-BI/tree/main/Data%20Visualizations%20using%20POWER%20BI/Premier%20League%20Live%20Dashboard/README.md)
+1. **Premier League Live Dashboard**: This project provides a real-time dashboard for tracking live football (soccer) matches, focusing on the English Premier League. The Premier League Live Dashboard provides an engaging and interactive platform tailored for avid football fans.--> [go to Project..](https://github.com/Frances-Odunaiya/PowerBi_Dashboard/tree/main/Data%20/Premier%20League%20Live%20Dashboard/README.md)
    
 2. **Human Resources Report Dashboard**: This project offers a comprehensive dashboard for visualizing and analyzing key metrics and insights related to human resources management.
 By presenting HR data in a user-friendly and visually engaging format, this dashboard aids organizations in making informed decisions and strategizing effectively.--> [go to Project..](https://github.com/Frances-Odunaiya/Data-Visualizations-using-POWER-BI/blob/main/Data%20Visualizations%20using%20POWER%20BI/Human%20Resources%20Report%20Dashboard/README.md)
