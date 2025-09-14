@@ -24,7 +24,7 @@ The Pet Shelter Report Dashboard offers a comprehensive tool for the marketing t
 
 To explore the Pet Shelter Report Dashboard: --> [Go to PowerBI Dashboard..](https://github.com/Frances-Odunaiya/PowerBi_Dashboard/blob/main/Pet%20Shelter%20Report%20Dashhboard/PETS%20SHELTER%20DASHBOARD%20REPORT.pbix) and Download to your local machine😊
 
-<img src = "https://github.com/Frances-Odunaiya/PowerBi_Dashboard/blob/main/Pet%20Shelter%20Report%20Dashhboard/pets_shelter.png" alt = "Pets Shelter" width = "100%" height = "100%">
+<img src = "https://github.com/Frances-Odunaiya/PowerBi_Visualizations_Dashboard/PowerBi_Dashboard/blob/main/Pet%20Shelter%20Report%20Dashhboard/pets_shelter.png" alt = "Pets Shelter" width = "100%" height = "100%">
 
 Access the Power BI dashboard through the provided link or download the Power BI file to your local machine.
 
