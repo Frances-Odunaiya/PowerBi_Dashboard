@@ -21,7 +21,7 @@ The Executive Summary on Financials Report Dashboard offers a concise yet compre
 - **Data Visualization**: Utilization of Power BI's visualization capabilities to create dynamic and interactive reports and dashboards.
   
 
-<img src = "https://github.com/Frances-Odunaiya/PowerBi_Dashboard/blob/main/Executive%20Financial%20Summary%20Dashboard/Financial%20Report.png">
+<img src = "https://github.com/Frances-Odunaiya/PowerBi_Dashboard/blob/main/Executive%20Financial%20Summary%20Dashboard/Financial%20Report.png" alt = "Financial Summary Dsshboard">
 
 
 
