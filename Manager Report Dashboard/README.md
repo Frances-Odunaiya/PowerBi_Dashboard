@@ -19,7 +19,7 @@ The Manager Report Dashboard serves as a centralized platform for managers to mo
 - **Data Visualization**: Utilization of Power BI's visualization capabilities to create dynamic and interactive reports and dashboards.
   
 
-<img src = "https://github.com/Frances-Odunaiya/Data-Visualizations-using-POWER-BI/blob/main/Data%20Visualizations%20using%20POWER%20BI/Manager%20Report%20Dashboard/Managers%20Dashboard.png" alt = "Managers Dashboard">
+<img src = "https://github.com/Frances-Odunaiya/PowerBi_Dashboard/blob/main/Manager%20Report%20Dashboard/Managers%20Dashboard.png" alt = "Managers Dashboard">
 
 # Contributing
 
